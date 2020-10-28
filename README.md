@@ -84,3 +84,11 @@ After finishing your required elements, you can push your work further. These go
 ## Submission Format
 
 - [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[chris atoki](https://youtu.be/RxWduAgPCc0)
+[emily seibert](https://youtu.be/4SNexRhmA6g)
+[dan frehner](https://youtu.be/pgMdU2--LAo)
+[jason maurer](https://youtu.be/d4HG8UkTDdI)
+[dan levy](https://youtu.be/wL8PXSri_Ks)
